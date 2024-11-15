@@ -1,0 +1,25 @@
+.filters {
+    margin: 20px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.filters input,
+.filters select {
+    padding: 8px;
+}
+
+.filters select {
+    cursor: pointer;
+}
+
+.favorite {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+}

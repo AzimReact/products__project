@@ -1,0 +1,68 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "iPhone 13",
+        "image": "https://via.placeholder.com/150",
+        "category": "iPhones",
+        "price": 999
+      },
+      {
+        "id": 2,
+        "name": "MacBook Pro 14",
+        "image": "https://via.placeholder.com/150",
+        "category": "Laptops",
+        "price": 1999
+      },
+      {
+        "id": 3,
+        "name": "AirPods Pro",
+        "image": "https://via.placeholder.com/150",
+        "category": "AirPods",
+        "price": 249
+      },
+      {
+        "id": 4,
+        "name": "iPhone 12",
+        "image": "https://via.placeholder.com/150",
+        "category": "iPhones",
+        "price": 799
+      },
+      {
+        "id": 5,
+        "name": "MacBook Air M1",
+        "image": "https://via.placeholder.com/150",
+        "category": "Laptops",
+        "price": 999
+      },
+      {
+        "id": 6,
+        "name": "AirPods Max",
+        "image": "https://via.placeholder.com/150",
+        "category": "AirPods",
+        "price": 549
+      },
+      {
+        "id": 7,
+        "name": "iPhone SE",
+        "image": "https://via.placeholder.com/150",
+        "category": "iPhones",
+        "price": 429
+      },
+      {
+        "id": 8,
+        "name": "MacBook Pro 16",
+        "image": "https://via.placeholder.com/150",
+        "category": "Laptops",
+        "price": 2499
+      },
+      {
+        "id": 9,
+        "name": "AirPods",
+        "image": "https://via.placeholder.com/150",
+        "category": "AirPods",
+        "price": 159
+      }
+    ]
+  }
+  
