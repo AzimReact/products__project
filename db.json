@@ -3,63 +3,63 @@
       {
         "id": 1,
         "name": "iPhone 13",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://assets.nikshanonline.com/wp-content/uploads/2023/07/Apple-iPhone-13-Blue-1-150x150.png",
         "category": "iPhones",
         "price": 999
       },
       {
         "id": 2,
         "name": "MacBook Pro 14",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://apple-store.net.ru/image/cache/catalog/tovary/macbook/macbook-pro-14-2023/macbook-pro-14-m2-2023-150x150.png",
         "category": "Laptops",
         "price": 1999
       },
       {
         "id": 3,
         "name": "AirPods Pro",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://fotomagazin.by/image/cache/catalog/product/nayshniki/apple/apple-airpods-pro-mwp22-150x150.jpg",
         "category": "AirPods",
         "price": 249
       },
       {
         "id": 4,
         "name": "iPhone 12",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://iliketradein.ru/wp-content/uploads/2020/10/32-150x150.png",
         "category": "iPhones",
         "price": 799
       },
       {
         "id": 5,
         "name": "MacBook Air M1",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://media.wired.com/photos/5fb2cc575c9914713ead03de/1:1/w_150%2Cc_limit/Gear-Apple-MacBook-Air-top-down-SOURCE-Apple.jpg",
         "category": "Laptops",
         "price": 999
       },
       {
         "id": 6,
         "name": "AirPods Max",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/cache/2de03cad1789ed6d6bbbd7ce042d97af/1/7/174223_2020.jpg",
         "category": "AirPods",
         "price": 549
       },
       {
         "id": 7,
         "name": "iPhone SE",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://appleshops.ru/image/cache/catalog/Apple/iPhone%20SE%202022/se2022black-500x500.png_150.webp",
         "category": "iPhones",
         "price": 429
       },
       {
         "id": 8,
         "name": "MacBook Pro 16",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://redstore.by/wp-content/uploads/2022/03/mbp16-spacegray-select-202110-150x150.jpg",
         "category": "Laptops",
         "price": 2499
       },
       {
         "id": 9,
         "name": "AirPods",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://my-apple-store.ru/wa-data/public/shop/products/09/04/10409/images/13601/13601.150x150@2x.jpeg",
         "category": "AirPods",
         "price": 159
       }

@@ -26,6 +26,11 @@ const ProductList: FC = () => {
       <Filters />
       {isLoading && <h1>Loading...</h1>}
       {error && <h1>{error}</h1>}
+      
+      {filter.showFavorites && filteredProducts.length === 0 && (
+        <h2 className={styles.h2}>Favorites is empty</h2>
+      )}
+      
       <div className={styles.productList}>
         {filteredProducts.map((product) => (
           <ProductItem key={product.id} product={product} />

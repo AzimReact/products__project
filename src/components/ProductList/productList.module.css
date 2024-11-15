@@ -5,6 +5,10 @@
     padding: 20px;
 }
 
+h2 {
+    text-align: center;
+}
+
 @media (max-width: 600px) {
     .productList {
         grid-template-columns: 1fr;

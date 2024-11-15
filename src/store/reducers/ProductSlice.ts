@@ -2,7 +2,7 @@ import { PayloadAction, createSlice } from '@reduxjs/toolkit';
 import { Product } from '../../models/Product';
 import { fetchProducts } from './ActionCreators';
 
-export type FilterState = {
+type FilterState = {
     category: string;
     search: string;
     showFavorites: boolean;
